@@ -1,17 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I’m Rishi Kapadia! 
 
-<!--
-**Rishi-1234/Rishi-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 👨‍💻 A Data Sceince Enthusiast, Coder and Writer.
+- 🌱 I’m currently learning MachineLearning 
+- 💞️ I’m looking to collaborate on Projects based on Machine learning, Computer Vision, NLP and Robotics
+- - 📫 How to reach me : LinkedIn : https://www.linkedin.com/in/rishi-kapadia-6233111a5/, 
+-                         
 -->
 <img src = "https://github-readme-stats.vercel.app/api?username=Rishi-1234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
